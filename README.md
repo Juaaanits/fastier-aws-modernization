@@ -96,10 +96,10 @@ Solutions Architect, AWS
 
 ## 👥 Contributors
 
-- [Your Name] – Solutions Architect, AWS
+- Juanito M. Ramos II – Aspiring AWS Solutions Architect
 
 ---
 
 ## 📄 License
 
-This project is part of the **AWS APAC Solutions Architecture Virtual Experience Program**. Licensing terms follow those outlined in the program materials.
+This project is part of the **AWS APAC Solutions Architecture Virtual Experience Program**. 
