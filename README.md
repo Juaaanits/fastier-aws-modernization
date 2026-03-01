@@ -19,6 +19,8 @@ Fastier’s current **"all-in-one" architecture** on a single `t3.medium` EC2 in
 
 ## 🏗️ Proposed Architecture
 
+![AWS Architecture Diagram](AWS%20Cloud%20Architecture.png)
+
 The new architecture transitions from a monolithic, single-server setup to a **decoupled, Multi-AZ (Availability Zone)** infrastructure.
 
 ### 1. Frontend & Content Delivery
@@ -42,6 +44,8 @@ The new architecture transitions from a monolithic, single-server setup to a **d
 - **AWS CodePipeline:** Automates deployment processes, supporting **Rolling Updates** to prevent downtime during releases.
 
 ---
+
+
 
 ## 📧 Client Communication: Email Draft
 
